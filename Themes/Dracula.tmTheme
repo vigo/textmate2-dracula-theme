@@ -526,6 +526,17 @@
 				<string>#bd93f9</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>GIT Commit - First line</string>
+			<key>scope</key>
+			<string>invalid.warning.line-too-long.git-commit</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ff0000</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>83091B89-765E-4F0D-9275-0EC6CB084126</string>
